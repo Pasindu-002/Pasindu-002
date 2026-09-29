@@ -1,4 +1,4 @@
-# Hi, I'm R.M. Pasindu Milinda Bandara 👋
+# Hi, I'm  Pasindu Milinda Bandara 👋
 
 ### Software Engineering Undergraduate | QA Automation Enthusiast
 
